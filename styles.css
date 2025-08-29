@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Story+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Story+Script&display=swap');
+
+
+
+button {
+    border: none;
+    border-radius:10%;
+    width:150px;
+    height:50px;
+}
+
+
+body {
+    background-color: #4057a3;
+    font-size:25px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0px;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align:center;
+    color: #fac52b;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+h1 {
+    color: #fac52b;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    font-family: "Story Script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:80px;
+    text-align:center
+
+}
